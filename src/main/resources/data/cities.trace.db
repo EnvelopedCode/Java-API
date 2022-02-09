@@ -1,0 +1,9 @@
+2022-02-09 00:08:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENT" not found; SQL statement:
+select student0_.id as id1_0_, student0_.age as age2_0_, student0_.email as email3_0_, student0_.name as name4_0_ from student student0_ [42102-200]
+2022-02-09 00:13:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENT" not found; SQL statement:
+select student0_.id as id1_0_, student0_.age as age2_0_, student0_.email as email3_0_, student0_.name as name4_0_ from student student0_ [42102-200]
+2022-02-09 00:14:36 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENT" not found; SQL statement:
+select student0_.id as id1_0_, student0_.age as age2_0_, student0_.email as email3_0_, student0_.name as name4_0_ from student student0_ [42102-200]
